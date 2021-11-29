@@ -1,4 +1,4 @@
 # iafmodels
 Identity-aware Fingerprint Database (IAF) models
 
-Download: https://github.com/iafdatabase/iafmodels
+Download: https://drive.google.com/drive/folders/1ZppbRqviDI_6HSFVCrUmGZOxjA-jQCCu?usp=sharing
