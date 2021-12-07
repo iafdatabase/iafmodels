@@ -63,7 +63,10 @@ A new method of generating synthetic fingerprints divided into two stages. The f
   ```
 Don't forget to replace "MODEL" for the name of the model you want to use.
 
-# 3. Repositories
+# 3. Fingerprint class annotations
+- NIST SD300a dataset:  https://raw.githubusercontent.com/iafdatabase/iafmodels/main/SD300a_annotation.csv
+
+# 4. Repositories
 - https://github.com/lucidrains/lightweight-gan
 - https://github.com/LynnHo/CycleGAN-Tensorflow-2
 
