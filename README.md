@@ -62,3 +62,40 @@ A new method of generating synthetic fingerprints divided into two stages. The f
   $ CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python3 test.py --experiment_dir ./output/MODEL/
   ```
 Don't forget to replace "MODEL" for the name of the model you want to use.
+
+# 3. Repositories
+- https://github.com/lucidrains/lightweight-gan
+- https://github.com/LynnHo/CycleGAN-Tensorflow-2
+
+## Citations
+
+```bibtex
+@inproceedings{
+    anonymous2021towards,
+    title   = {Towards Faster and Stabilized {\{}GAN{\}} Training for High-fidelity Few-shot Image Synthesis},
+    author  = {Anonymous},
+    booktitle = {Submitted to International Conference on Learning Representations},
+    year    = {2021},
+    url     = {https://openreview.net/forum?id=1Fqg133qRaI},
+    note    = {under review}
+}
+```
+
+```bibtex
+@Article{	  zhupie17,
+  title		= {Unpaired Image-to-Image Translation using Cycle-Consistent
+		  Adversarial Networks},
+  author	= {Jun{-}Yan Zhu and Taesung Park and Phillip Isola and
+		  Alexei A. Efros},
+  year		= 2017,
+  journal	= {CoRR},
+  volume	= {abs/1703.10593},
+  url		= {http://arxiv.org/abs/1703.10593},
+  archiveprefix	= {arXiv},
+  eprint	= {1703.10593},
+  timestamp	= {Mon, 13 Aug 2018 16:48:06 +0200},
+  biburl	= {https://dblp.org/rec/bib/journals/corr/ZhuPIE17},
+  bibsource	= {dblp computer science bibliography, https://dblp.org}
+}
+```
+
