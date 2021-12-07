@@ -2,6 +2,9 @@
 
 A new method of generating synthetic fingerprints divided into two stages. The first stage is capable of creating new fingerprint identities from five fingerprint classes separately, and the second stage models factors such as sample area, orientation, deformation, and texturing.
 
+<p align="center"> <img src="25_1_5.png" width="25%" /> </p>
+
+
 # 1. Master fingerprint generation
 
 -  ***FastGAN models*** - Left loop, whorl, right loop, tented and regular arch:  https://drive.google.com/drive/folders/1ZppbRqviDI_6HSFVCrUmGZOxjA-jQCCu?usp=sharing
